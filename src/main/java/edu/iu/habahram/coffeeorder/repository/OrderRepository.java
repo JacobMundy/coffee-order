@@ -15,6 +15,7 @@ public class OrderRepository {
             case "dark roast" -> new DarkRoast();
             case "espresso" -> new Espresso();
             case "house blend" -> new HouseBlend();
+            case "decaf" -> new Decaf();
             default -> null;
         };
         if (beverage == null) {

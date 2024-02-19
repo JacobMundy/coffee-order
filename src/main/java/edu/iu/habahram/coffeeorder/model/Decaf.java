@@ -1,6 +1,6 @@
 package edu.iu.habahram.coffeeorder.model;
 
-public class decaf extends Beverage {
+public class Decaf extends Beverage {
     
         @Override
         public float cost() {
