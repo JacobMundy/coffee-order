@@ -38,4 +38,4 @@ jobs:
         run: |
           docker login --username JacobMundy --password ${{secrets.ACCESS_TOKEN}} ghcr.io
           docker build -t ghcr.io/jacobmundy/coffee-order:latest --file Dockerfile .  
-          docker push ghcr.io/jacobmundy/coffee-order-management:latest
+          docker push ghcr.io/jacobmundy/coffee-order:latest
