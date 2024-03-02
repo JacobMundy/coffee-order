@@ -1,1 +1,215 @@
 412583 Dark roast, Whip, Soy, Soy 2.390000
+2434946 Dark roast 1.990000
+2216370 Dark roast 1.990000
+5134747 Dark roast 1.990000
+2624241 Dark roast 1.990000
+7564125 Dark roast 1.990000
+5242793 Dark roast 1.990000
+4344437 Dark roast, Milk 2.390000
+3947800 Dark roast 1.990000
+6697015 Dark roast, Milk 2.390000
+893866 Dark roast 1.990000
+3926240 Dark roast, Milk 2.390000
+7945760 Dark roast, Milk, Mocha 2.690000
+7350030 Dark roast 1.990000
+2100658 Dark roast, Milk 2.390000
+5785024 Dark roast, Milk, Mocha 2.690000
+6731866 Dark roast 1.990000
+9796057 Dark roast, Milk 2.390000
+5204435 Dark roast, Milk, Mocha 2.690000
+5489426 Dark roast, Milk, Mocha, Soy 2.960000
+6038944 Dark roast 1.990000
+5825443 Dark roast, Milk 2.390000
+6482095 Dark roast, Milk, Mocha 2.690000
+4082756 Dark roast, Milk, Mocha, Soy 2.960000
+127054 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+8793215 Dark roast 1.990000
+9202194 Dark roast, Milk 2.390000
+5660717 Dark roast, Milk, Mocha 2.690000
+2078296 Dark roast, Milk, Mocha, Soy 2.960000
+2189520 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+6904693 Dark roast 1.990000
+9711231 Dark roast, Milk 2.390000
+3648642 Dark roast, Milk, Mocha 2.690000
+9152809 Dark roast, Milk, Mocha, Soy 2.960000
+2883844 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+116382 Dark roast 1.990000
+5335598 Dark roast, Milk 2.390000
+5823197 Dark roast, Milk, Mocha 2.690000
+5413026 Dark roast, Milk, Mocha, Soy 2.960000
+5261182 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+5540547 decaf 1.280000
+9392105 Dark roast 1.990000
+6085622 Dark roast, Milk 2.390000
+1836784 Dark roast, Milk, Mocha 2.690000
+8120014 Dark roast, Milk, Mocha, Soy 2.960000
+2119135 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+542918 decaf 1.280000
+9082228 decaf, Milk 1.680000
+4618946 Dark roast 1.990000
+9241578 Dark roast, Milk 2.390000
+1686917 Dark roast, Milk, Mocha 2.690000
+2943884 Dark roast, Milk, Mocha, Soy 2.960000
+5148912 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+2070538 decaf 1.280000
+5213162 decaf, Milk 1.680000
+9659067 decaf, Milk, Mocha 1.980000
+6797467 Dark roast 1.990000
+9792751 Dark roast, Milk 2.390000
+9870844 Dark roast, Milk, Mocha 2.690000
+7159890 Dark roast, Milk, Mocha, Soy 2.960000
+824398 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+8652841 decaf 1.280000
+6963941 decaf, Milk 1.680000
+9742178 decaf, Milk, Mocha 1.980000
+2253078 decaf, Milk, Mocha, Soy 2.250000
+4698111 Dark roast 1.990000
+5087720 Dark roast, Milk 2.390000
+9325431 Dark roast, Milk, Mocha 2.690000
+7025412 Dark roast, Milk, Mocha, Soy 2.960000
+3017135 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+5489600 decaf 1.280000
+2831862 decaf, Milk 1.680000
+2686103 decaf, Milk, Mocha 1.980000
+1234384 decaf, Milk, Mocha, Soy 2.250000
+1445830 decaf, Milk, Mocha, Soy, Whip 2.500000
+2345541 Dark roast 1.990000
+2096472 Dark roast, Milk 2.390000
+5712149 Dark roast, Milk, Mocha 2.690000
+7467831 Dark roast, Milk, Mocha, Soy 2.960000
+1938781 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+2345147 decaf 1.280000
+7675654 decaf, Milk 1.680000
+4575617 decaf, Milk, Mocha 1.980000
+901686 decaf, Milk, Mocha, Soy 2.250000
+1365350 decaf, Milk, Mocha, Soy, Whip 2.500000
+2527960 Dark roast 1.990000
+676120 Dark roast, Milk 2.390000
+8455638 Dark roast, Milk, Mocha 2.690000
+9017080 Dark roast, Milk, Mocha, Soy 2.960000
+5498886 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+95358 decaf 1.280000
+7101821 decaf, Milk 1.680000
+3529833 decaf, Milk, Mocha 1.980000
+2747226 decaf, Milk, Mocha, Soy 2.250000
+3810736 decaf, Milk, Mocha, Soy, Whip 2.500000
+8861104 Espresso 1.340000
+1319140 Dark roast 1.990000
+3578713 Dark roast, Milk 2.390000
+8781798 Dark roast, Milk, Mocha 2.690000
+6025069 Dark roast, Milk, Mocha, Soy 2.960000
+9587597 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+5872615 decaf 1.280000
+2239640 decaf, Milk 1.680000
+1031090 decaf, Milk, Mocha 1.980000
+6901423 decaf, Milk, Mocha, Soy 2.250000
+7039184 decaf, Milk, Mocha, Soy, Whip 2.500000
+1667073 Espresso 1.340000
+3554695 Espresso, Milk 1.740000
+5544745 Dark roast 1.990000
+4140498 Dark roast, Milk 2.390000
+9068733 Dark roast, Milk, Mocha 2.690000
+7236810 Dark roast, Milk, Mocha, Soy 2.960000
+2702701 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+1160601 decaf 1.280000
+514656 decaf, Milk 1.680000
+7974619 decaf, Milk, Mocha 1.980000
+5994435 decaf, Milk, Mocha, Soy 2.250000
+3060011 decaf, Milk, Mocha, Soy, Whip 2.500000
+8442658 Espresso 1.340000
+3498455 Espresso, Milk 1.740000
+7055477 Espresso, Milk, Mocha 2.040000
+4583138 Dark roast 1.990000
+460180 Dark roast, Milk 2.390000
+8291275 Dark roast, Milk, Mocha 2.690000
+1904415 Dark roast, Milk, Mocha, Soy 2.960000
+4819359 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+2327932 decaf 1.280000
+4477044 decaf, Milk 1.680000
+8627850 decaf, Milk, Mocha 1.980000
+2932764 decaf, Milk, Mocha, Soy 2.250000
+4034118 decaf, Milk, Mocha, Soy, Whip 2.500000
+9412132 Espresso 1.340000
+531354 Espresso, Milk 1.740000
+8992944 Espresso, Milk, Mocha 2.040000
+4708475 Espresso, Milk, Mocha, Soy 2.310000
+943548 Dark roast 1.990000
+237539 Dark roast, Milk 2.390000
+360732 Dark roast, Milk, Mocha 2.690000
+7188149 Dark roast, Milk, Mocha, Soy 2.960000
+5026995 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+8894718 decaf 1.280000
+4504789 decaf, Milk 1.680000
+9806062 decaf, Milk, Mocha 1.980000
+9254755 decaf, Milk, Mocha, Soy 2.250000
+5595345 decaf, Milk, Mocha, Soy, Whip 2.500000
+8116224 Espresso 1.340000
+135987 Espresso, Milk 1.740000
+46319 Espresso, Milk, Mocha 2.040000
+2960079 Espresso, Milk, Mocha, Soy 2.310000
+8286223 Espresso, Milk, Mocha, Soy, Whip 2.560000
+9400635 Dark roast 1.990000
+5972106 Dark roast, Milk 2.390000
+4271997 Dark roast, Milk, Mocha 2.690000
+9586894 Dark roast, Milk, Mocha, Soy 2.960000
+6415769 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+1539141 decaf 1.280000
+4319129 decaf, Milk 1.680000
+1341102 decaf, Milk, Mocha 1.980000
+6847712 decaf, Milk, Mocha, Soy 2.250000
+5803186 decaf, Milk, Mocha, Soy, Whip 2.500000
+6839310 Espresso 1.340000
+8470442 Espresso, Milk 1.740000
+3144875 Espresso, Milk, Mocha 2.040000
+2890057 Espresso, Milk, Mocha, Soy 2.310000
+2562161 Espresso, Milk, Mocha, Soy, Whip 2.560000
+5960722 Dark roast 1.990000
+3499208 Dark roast, Milk 2.390000
+5999370 Dark roast, Milk, Mocha 2.690000
+8364247 Dark roast, Milk, Mocha, Soy 2.960000
+3632057 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+8080013 decaf 1.280000
+2966904 decaf, Milk 1.680000
+9285360 decaf, Milk, Mocha 1.980000
+1676478 decaf, Milk, Mocha, Soy 2.250000
+5158316 decaf, Milk, Mocha, Soy, Whip 2.500000
+5902495 Espresso 1.340000
+5989989 Espresso, Milk 1.740000
+7164506 Espresso, Milk, Mocha 2.040000
+3241743 Espresso, Milk, Mocha, Soy 2.310000
+9827078 Espresso, Milk, Mocha, Soy, Whip 2.560000
+8894938 House Blend Coffee 1.650000
+6892633 Dark roast 1.990000
+3438415 Dark roast, Milk 2.390000
+4093079 Dark roast, Milk, Mocha 2.690000
+8237438 Dark roast, Milk, Mocha, Soy 2.960000
+1528581 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+3057887 decaf 1.280000
+3208524 decaf, Milk 1.680000
+7005634 decaf, Milk, Mocha 1.980000
+631352 decaf, Milk, Mocha, Soy 2.250000
+1491863 decaf, Milk, Mocha, Soy, Whip 2.500000
+5242612 Espresso 1.340000
+6605767 Espresso, Milk 1.740000
+7717347 Espresso, Milk, Mocha 2.040000
+9334904 Espresso, Milk, Mocha, Soy 2.310000
+9873684 Espresso, Milk, Mocha, Soy, Whip 2.560000
+6044474 House Blend Coffee 1.650000
+1927174 House Blend Coffee, Milk 2.050000
+8725996 Dark roast 1.990000
+6819132 Dark roast, Milk 2.390000
+3462114 Dark roast, Milk, Mocha 2.690000
+2320818 Dark roast, Milk, Mocha, Soy 2.960000
+8653027 Dark roast, Milk, Mocha, Soy, Whip 3.210000
+8223963 decaf 1.280000
+6575601 decaf, Milk 1.680000
+6691567 decaf, Milk, Mocha 1.980000
+9112471 decaf, Milk, Mocha, Soy 2.250000
+2039967 decaf, Milk, Mocha, Soy, Whip 2.500000
+635155 Espresso 1.340000
+2584366 Espresso, Milk 1.740000
+1981200 Espresso, Milk, Mocha 2.040000
+7340711 Espresso, Milk, Mocha, Soy 2.310000
+8169568 Espresso, Milk, Mocha, Soy, Whip 2.560000
+839938 House Blend Coffee 1.650000
+4838255 House Blend Coffee, Milk 2.050000
